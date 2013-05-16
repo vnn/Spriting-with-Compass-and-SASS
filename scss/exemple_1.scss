@@ -1,0 +1,18 @@
+@import "compass/utilities/sprites";
+@import "icons/*.png";
+@include all-icons-sprites;
+
+[class^="icons-"], 
+[class*=" icons-"] { 
+  display: inline-block;
+}
+
+.icons-delete {
+  height: icons-sprite-height(delete);
+  width: icons-sprite-width(delete);
+}
+
+.icons-save {
+  height: icons-sprite-height(save);
+  width: icons-sprite-width(save);
+}

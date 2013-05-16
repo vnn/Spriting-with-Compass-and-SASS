@@ -1,0 +1,4 @@
+.delete { @include sprite-background(delete) }
+.edit { @include sprite-background(edit) }
+.new { @include sprite-background(new) }
+.save { @include sprite-background(save) }

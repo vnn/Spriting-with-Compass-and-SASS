@@ -1,0 +1,5 @@
+delete.png
+delete_hover.png
+edit.png
+new.png
+save.png
