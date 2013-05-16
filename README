@@ -1,0 +1,7 @@
+SYNOPSIS
+     A sample project using SASS and Compass that shows how to quickly create 
+     sprites of your images for both low and high definition (Retina ready).
+
+AUTHORS
+     This example was written by Vincent Tantardini <vince@vtcreative.fr> and 
+     is distributed under an ISC license (BSD compatible, OSI compatible).
